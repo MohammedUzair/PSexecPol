@@ -1,0 +1,2 @@
+# PSexecPol
+PowerShell Execution Policy
